@@ -1,0 +1,6 @@
+==10527== Memcheck, a memory error detector
+==10527== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==10527== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==10527== Command: Resultados/Isabela/completo/prog Resultados/Isabela/completo/Casos/3
+==10527== Parent PID: 10526
+==10527== 

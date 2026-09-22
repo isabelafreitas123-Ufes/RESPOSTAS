@@ -1,0 +1,6 @@
+==10396== Memcheck, a memory error detector
+==10396== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==10396== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==10396== Command: Resultados/Isabela/completo/prog Resultados/Isabela/completo/Casos/2
+==10396== Parent PID: 10395
+==10396== 

@@ -1,0 +1,6 @@
+==10986== Memcheck, a memory error detector
+==10986== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==10986== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==10986== Command: Resultados/Isabela/utils/prog Resultados/Isabela/utils/Casos/2
+==10986== Parent PID: 10985
+==10986== 
