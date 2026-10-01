@@ -1,0 +1,23 @@
+tela.c: In function ‘DesenhaTela’:
+tela.c:51:9: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+   51 |         printf("##################\n");
+      |         ^~~~~~
+tela.c:2:1: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+    1 | #include "tela.h"
+  +++ |+#include <stdio.h>
+    2 | 
+tela.c:51:9: warning: incompatible implicit declaration of built-in function ‘printf’ [-Wbuiltin-declaration-mismatch]
+   51 |         printf("##################\n");
+      |         ^~~~~~
+tela.c:51:9: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+tela.c: In function ‘OuvidorEventosTela’:
+tela.c:69:5: warning: incompatible implicit declaration of built-in function ‘printf’ [-Wbuiltin-declaration-mismatch]
+   69 |     printf("- Escolha sua acao: ");
+      |     ^~~~~~
+tela.c:69:5: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+tela.c:71:5: warning: implicit declaration of function ‘scanf’ [-Wimplicit-function-declaration]
+   71 |     scanf("%d", &bot);
+      |     ^~~~~
+tela.c:71:5: note: include ‘<stdio.h>’ or provide a declaration of ‘scanf’
+tela.c:71:5: warning: incompatible implicit declaration of built-in function ‘scanf’ [-Wbuiltin-declaration-mismatch]
+tela.c:71:5: note: include ‘<stdio.h>’ or provide a declaration of ‘scanf’
